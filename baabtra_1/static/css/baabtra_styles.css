@@ -92,19 +92,18 @@ padding-top: 60px;
             font: 1em sans-serif;
             /* padding: 20px; */
         }
-
-        /* .enquire t1 
-
+        #table_3
         {
-          color: #060115;
-          font-size: 20px;
-          font: 1em sans-serif;
-          padding: 0px;
-      } */
-        t2 {
-            color: #FD1849;
-            font-size: 12px;
+          margin-top: 18px;
+        }
+    
+     
+       #table_3 t2 {
+            color: #a40f2f;
+            font-size: 15px;
             font-family: sans-serif;
+            line-height: 25px;
+            
             
         }
 p {
@@ -898,6 +897,7 @@ padding-left: 50mm;
      display: flex;
     background-color: #ffffff;
     flex-direction: row;
+    
   }
 
   .contact_11
@@ -978,7 +978,7 @@ padding-left: 50mm;
     margin-left: 12px;
     margin-right: 12px;
    /* padding-bottom: 35px;  */
-   background-color: chartreuse;
+   
   }
   .form_body_h
   {
@@ -1144,4 +1144,16 @@ flex-direction: column;
 width: 120px;
 height: 25px;
 
+  }
+
+
+  #table_3 td 
+  {
+/* border: 1px solid crimson; */
+  }
+
+
+  #table_2 td 
+  {
+/* border: 1px solid crimson; */
   }
